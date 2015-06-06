@@ -1,0 +1,19 @@
+﻿Build started 2015/5/20 20:43:55.
+     1>Project "C:\Users\Archie\Documents\Visual Studio 2013\Projects\扫雷_with_模拟界面\扫雷_with_模拟界面\扫雷_with_模拟界面.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\main.cpp
+         main.cpp
+     1>c:\users\archie\documents\visual studio 2013\projects\扫雷_with_模拟界面\gui_by_system.h(38): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(193) : see previous definition of 'max'
+     1>c:\users\archie\documents\visual studio 2013\projects\扫雷_with_模拟界面\gui_by_system.h(192): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\archie\documents\visual studio 2013\projects\扫雷_with_模拟界面\gui_by_system.h(224): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\archie\documents\visual studio 2013\projects\扫雷_with_模拟界面\function.h(164): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\archie\documents\visual studio 2013\projects\扫雷_with_模拟界面\function.h(405): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Archie\Documents\Visual Studio 2013\Projects\扫雷_with_模拟界面\Debug\扫雷_with_模拟界面.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Archie\Documents\Visual Studio 2013\Projects\扫雷_with_模拟界面\Debug\扫雷_with_模拟界面.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Archie\Documents\Visual Studio 2013\Projects\扫雷_with_模拟界面\Debug\扫雷_with_模拟界面.lib" /MACHINE:X86 Debug\main.obj
+         扫雷_with_模拟界面.vcxproj -> C:\Users\Archie\Documents\Visual Studio 2013\Projects\扫雷_with_模拟界面\Debug\扫雷_with_模拟界面.exe
+     1>Done Building Project "C:\Users\Archie\Documents\Visual Studio 2013\Projects\扫雷_with_模拟界面\扫雷_with_模拟界面\扫雷_with_模拟界面.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.69
